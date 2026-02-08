@@ -19,10 +19,13 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ---
 
-Notebooks das aulas
+## Notebooks das aulas
 
+### Tic-Tac-Toe: Aprendizado por Reforço Simples
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic_tae_toe.ipynb)
+
+
 
 ---
 
