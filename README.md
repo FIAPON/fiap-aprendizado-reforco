@@ -6,8 +6,9 @@ Aqui você encontrará **notebooks práticos, experimentais e orientados a decis
 
 Os experimentos utilizam ambientes do **Gymnasium**, permitindo simular cenários controlados que representam problemas reais de negócio, engenharia e otimização.
 
-> **Professor:** Ms. Felipe Amaral
-> Abordagem prática, com foco em raciocínio estratégico, modelagem correta do problema e análise crítica dos resultados.
+**Professor:** Ms. Felipe Amaral
+
+Abordagem prática, com foco em raciocínio estratégico, modelagem correta do problema e análise crítica dos resultados.
 
 ---
 
