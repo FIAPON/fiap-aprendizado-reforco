@@ -21,43 +21,44 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ## Notebooks das aulas
 
-### Tic-Tac-Toe: Aprendizado por Reforço Simples
+### 1 - Tic-Tac-Toe: Aprendizado por Reforço Simples
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic_tae_toe.ipynb)
 
 
-### Grid World: Exemplo 1 - Pygame
+### 2 - Grid World: Exemplo 1 - Pygame
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_1_pygame.ipynb)
 
-### Frozen Lake: Exemplo 2 - OpenAI Gym
+### 3 - Frozen Lake: Exemplo 2 - OpenAI Gym
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_2_pygame_frozenlake.ipynb)
 
-### Frozen Lake: Exemplo 3 - Determinístico
+### 4 - Frozen Lake: Exemplo 3 - Determinístico
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_3_pygame_det_frozenlake_colab.ipynb)
 
-### Equação de Bellman: Exemplo 4 - Value Iteration
+### 5 - Equação de Bellman: Exemplo 4 - Value Iteration
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_5_bellman_resolvido.ipynb)
 
-### Equação de Bellman: Exemplo 5 - Financeiro
+### 6 - Equação de Bellman: Exemplo 5 - Financeiro
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_6_bellman_fincaneiro.ipynb)
 
-### MDP 
+### 7 - MDP 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_6_pygame_mdp_colab.ipynb)
 
-### Cadeia de Markov
+### 8 - Cadeia de Markov
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_7_cadeia_markov.ipynb)
 
-### Q-Table
+### 9 - Q-Table
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_9_q_table_resolvido.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
+9.1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_9_q_table_resolvido.ipynb)
+
+9.2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
 
 
