@@ -1,13 +1,28 @@
+![](https://img.shields.io/github/repo-size/FIAPON/fiap-aprendizado-reforco)
+![](https://img.shields.io/github/issues/FIAPON/fiap-aprendizado-reforco)
+![](https://img.shields.io/github/watchers/FIAPON/fiap-aprendizado-reforco)
+![](https://img.shields.io/github/last-commit/FIAPON/fiap-aprendizado-reforco)
+
+
 # Aprendizado por Reforço  
 ## MBA em Inteligência Artificial & Machine Learning — FIAP
 
 ---
+
+Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/).
 
 ## Visão Geral da Disciplina
 
 O **Aprendizado por Reforço (Reinforcement Learning – RL)** é um dos pilares da Inteligência Artificial moderna, especialmente em problemas onde **decisões precisam ser tomadas em sequência**, sob incerteza e com feedback atrasado.
 
 Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **entender como decisões são formuladas, avaliadas e otimizadas ao longo do tempo**, conectando teoria matemática, implementação prática e aplicações reais em negócios, engenharia e sistemas autônomos.
+
+---
+
+Notebooks das aulas
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic-tae-toe.ipynb)
 
 ---
 
