@@ -44,7 +44,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ### Equação de Bellman: Exemplo 5 - Financeiro
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_6_bellman_financeiro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_6_bellman_fincaneiro.ipynb)
 
 ---
 
