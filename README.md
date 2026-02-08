@@ -22,7 +22,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 Notebooks das aulas
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic-tae-toe.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe.ipynb)
 
 ---
 
