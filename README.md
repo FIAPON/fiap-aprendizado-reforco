@@ -58,7 +58,9 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 9.2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
+11 - DQN Breakout
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_DQN_Breakout.ipynb)
 
 ---
 
