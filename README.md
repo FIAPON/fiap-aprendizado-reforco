@@ -9,8 +9,6 @@
 
 ---
 
-Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/).
-
 ## Visão Geral da Disciplina
 
 O **Aprendizado por Reforço (Reinforcement Learning – RL)** é um dos pilares da Inteligência Artificial moderna, especialmente em problemas onde **decisões precisam ser tomadas em sequência**, sob incerteza e com feedback atrasado.
@@ -271,35 +269,3 @@ Surge o **Deep Q-Network (DQN)**:
 - Usa replay de experiências  
 - Resolve problemas complexos e de alta dimensionalidade  
 
----
-
-## Desafio Prático da Disciplina
-
-### Contexto
-Cenário de logística com robôs autônomos em grid 2D.
-
-### Objetivo
-Maximizar entregas no menor tempo possível, considerando:
-
-- Obstáculos
-- Living penalty
-- Decisões sequenciais
-
-### Avaliação
-- Modelagem correta do MDP
-- Implementação do agente
-- Qualidade do aprendizado
-- Clareza do código e documentação
-
----
-
-## Conexão com o Repositório de Código
-
-Todo o conteúdo prático da disciplina está implementado em notebooks no GitHub, permitindo:
-
-- Experimentação
-- Alteração de hiperparâmetros
-- Análise de curvas de recompensa
-- Consolidação do aprendizado teórico
-
----
