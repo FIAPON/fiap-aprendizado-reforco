@@ -1,135 +1,252 @@
-# Reinforcement Learning MBA em Data Science & AI — FIAP
-
-Bem-vindo ao **Reinforcement Learning**, o repositório oficial das aulas de **Aprendizado por Reforço (Reinforcement Learning – RL)** do **MBA da FIAP**.
-
-Aqui você encontrará **notebooks práticos, experimentais e orientados a decisão**, cobrindo desde os fundamentos do RL clássico até uma introdução sólida ao **Deep Reinforcement Learning**, sempre conectando teoria, implementação e interpretação de resultados — exatamente como se espera em um MBA.
-
-Os experimentos utilizam ambientes do **Gymnasium**, permitindo simular cenários controlados que representam problemas reais de negócio, engenharia e otimização.
-
-**Professor:** Ms. Felipe Amaral
-
-Abordagem prática, com foco em raciocínio estratégico, modelagem correta do problema e análise crítica dos resultados.
+# Aprendizado por Reforço  
+## MBA em Inteligência Artificial & Machine Learning — FIAP
 
 ---
 
-## Por que Reinforcement Learning importa para executivos e líderes em IA?
+## Visão Geral da Disciplina
 
-Reinforcement Learning é o **framework matemático por trás de decisões inteligentes em ambientes dinâmicos**, onde não existe resposta pronta — apenas consequências ao longo do tempo.
+O **Aprendizado por Reforço (Reinforcement Learning – RL)** é um dos pilares da Inteligência Artificial moderna, especialmente em problemas onde **decisões precisam ser tomadas em sequência**, sob incerteza e com feedback atrasado.
 
-Ao final deste módulo, você será capaz de:
-- Pensar problemas complexos como **processos de decisão sequencial**;
-- Traduzir desafios reais em **MDPs (Markov Decision Processes)**;
-- Entender como agentes aprendem **por tentativa, erro e feedback**;
-- Avaliar quando RL faz sentido (e quando não faz);
-- Ler artigos, discutir soluções e conversar tecnicamente com times de IA.
+Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **entender como decisões são formuladas, avaliadas e otimizadas ao longo do tempo**, conectando teoria matemática, implementação prática e aplicações reais em negócios, engenharia e sistemas autônomos.
 
 ---
 
-## Objetivos de Aprendizagem
+## Abordagem Metodológica
 
-Este material foi desenhado para que você consiga:
-
-- Compreender o paradigma de **aprendizado por interação com o ambiente**;
-- Modelar estados, ações, recompensas e políticas;
-- Aplicar algoritmos clássicos como **Q-Learning**;
-- Entender profundamente a **Equação de Bellman**;
-- Evoluir naturalmente para **Deep Q-Networks (DQN)**;
-- Rodar experimentos, analisar curvas de aprendizado e diagnosticar falhas do agente.
-
----
-
-## Estrutura do Curso e do Repositório
-
-### Aula 1 — Q-Learning na prática (Taxi Problem)
-Notebook: `Aula1_Q_Learning_Taxi.ipynb`
-
-- Fundamentos do Q-Learning  
-- Exploração de estados, ações e recompensas  
-- Evolução da Q-table  
-- Impacto da exploração no aprendizado  
+- **Learning by doing**
+- Aulas práticas com experimentos computacionais
+- Ênfase em:
+  - Raciocínio de decisão
+  - Modelagem correta do problema
+  - Interpretação crítica dos resultados
+- Uso intensivo de simulações controladas
 
 ---
 
-### Aula 2 — Bellman, Gridworld e FrozenLake
-Notebooks:
-- `Aula2_Bellman.ipynb`
-- `Aula2_Grid_movements_RL.ipynb`
-- `Aula2_Q_Learning_FrozenLakev1.ipynb`
+## Bibliografia e Materiais de Apoio
 
-- Equação de Bellman  
-- Aprendizado por valor  
-- Ambientes estocásticos  
-- Exploração vs. explotação  
+### Bibliografia Básica
 
----
+- **Sutton, R. S., & Barto, A. G.**  
+  *Reinforcement Learning: An Introduction (2nd Edition)*
 
-### Aula 3 — Deep Reinforcement Learning com DQN
-Notebooks:
-- `Aula3_DQN_Breakout.ipynb`
-- `Aula3_DQN_LunarLander.ipynb`
+- **Enes Bilgin**  
+  *Mastering Reinforcement Learning with Python*
 
-- Limitações das Q-tables  
-- Redes neurais como aproximadores  
-- Deep Q-Networks  
-- Ambientes complexos  
+- **Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
+  *Deep Learning*
+
+### Materiais Complementares
+
+- David Silver (UCL / DeepMind) — Lectures  
+- UC Berkeley — CS188  
+- Coursera — *Fundamentals of Reinforcement Learning*  
+- OpenAI — *Spinning Up in Deep RL*
 
 ---
 
-## Executando os Notebooks
+## O que é Aprendizado por Reforço?
 
-### Opção 1 — Execução local (Jupyter)
+Aprendizado por Reforço é um paradigma de aprendizado de máquina baseado na **interação contínua entre um agente e um ambiente**, onde o agente aprende por **tentativa e erro**, buscando **maximizar uma recompensa acumulada ao longo do tempo**.
 
-```bash
-git clone https://github.com/ahirtonlopes/Mastering-Reinforcement-Learning.git
-cd Mastering-Reinforcement-Learning
-```
+### Características principais
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
-```bash
-pip install -r requirements.txt
-jupyter notebook
-```
+- O feedback não é imediato  
+- O tempo importa  
+- As ações atuais influenciam os dados futuros  
 
 ---
 
-### Opção 2 — Google Colab
+## Onde o Aprendizado por Reforço se Encaixa?
 
-Recomendado para evitar problemas de ambiente local.
+Dentro do aprendizado de máquina, o RL se diferencia por lidar explicitamente com:
 
----
+- Tomada de decisão sequencial
+- Planejamento
+- Estratégia
+- Trade-offs de curto vs. longo prazo
 
-## Dependências
+Ele dialoga com áreas como:
 
-- gymnasium  
-- numpy  
-- matplotlib  
-- tensorflow ou torch  
-
----
-
-## Estratégia de Estudo
-
-- Execute os notebooks em ordem  
-- Ajuste hiperparâmetros  
-- Analise curvas de recompensa  
-- Questione o comportamento do agente  
+- Ciência da Computação
+- Engenharia
+- Matemática
+- Economia
+- Psicologia
+- Neurociência
 
 ---
 
-## Próximos Passos
+## Exemplos de Aplicação
 
-- SARSA  
-- Policy Gradient  
-- Actor-Critic  
-- PPO  
-- Casos de negócio  
+### Jogos
+- Atari
+- AlphaGo
+- Ambientes simulados complexos
+
+### Robótica e Sistemas Autônomos
+- Manipulação de objetos
+- Navegação
+- Controle motor
+
+### Negócios e Indústria
+- Supply Chain
+- Planejamento de estoque
+- Manutenção preditiva
+- Alocação de recursos
+- Estratégias financeiras
 
 ---
 
-## Licença
+## Conceitos Fundamentais
 
-MIT License
+### Elementos do Aprendizado por Reforço
+
+- **Agente**: quem aprende e toma decisões  
+- **Ambiente**: tudo que está fora do agente  
+- **Estado (S)**: representação da situação atual  
+- **Ação (A)**: decisão tomada pelo agente  
+- **Recompensa (R)**: feedback numérico do ambiente  
+
+---
+
+## Tomada de Decisão Sequencial
+
+Em cada passo de tempo:
+
+1. O agente observa o estado  
+2. Executa uma ação  
+3. Recebe uma recompensa  
+4. Transita para um novo estado  
+
+Esse processo é naturalmente modelado como um **Processo de Decisão de Markov (MDP)**, onde:
+
+> O futuro é independente do passado, dado o presente.
+
+---
+
+## Processo de Decisão de Markov (MDP)
+
+Um MDP é definido por:
+
+- Conjunto de estados  
+- Conjunto de ações  
+- Função de transição  
+- Função de recompensa  
+- Fator de desconto (γ)  
+
+O objetivo do agente é aprender uma **política ótima** que maximize o retorno esperado.
+
+---
+
+## Políticas e Funções de Valor
+
+### Política
+- Define como o agente escolhe ações
+- Pode ser:
+  - Determinística
+  - Estocástica
+
+### Função de Valor
+- **V(s)**: valor de um estado  
+- **Q(s, a)**: valor de uma ação em um estado  
+
+Essas funções guiam o processo de decisão.
+
+---
+
+## Equação de Bellman
+
+A Equação de Bellman formaliza a ideia central do RL:
+
+> O valor de uma decisão hoje depende das recompensas futuras esperadas.
+
+Ela permite:
+
+- Planejamento
+- Avaliação de políticas
+- Aprendizado incremental
+
+---
+
+## Q-Learning
+
+O **Q-Learning** é um algoritmo:
+
+- Livre de modelo (*model-free*)
+- Baseado em diferença temporal
+- Aprende diretamente a função **Q(s, a)**
+
+### Características
+- Atualização iterativa
+- Uso de exploração vs. explotação
+- Base de muitos algoritmos modernos de RL
+
+---
+
+## Exploração vs. Explotação
+
+Um dos dilemas centrais do RL:
+
+- **Explorar**: testar ações desconhecidas  
+- **Explotar**: usar o que já funciona  
+
+A política **ε-greedy** equilibra esse trade-off de forma simples e eficaz.
+
+---
+
+## Living Penalty
+
+Introduz-se uma penalidade por tempo:
+
+- Incentiva soluções eficientes
+- Evita comportamentos procrastinadores
+- Fundamental em ambientes reais
+
+---
+
+## Deep Reinforcement Learning
+
+Quando o espaço de estados cresce:
+
+- Q-tables deixam de ser viáveis  
+- Redes neurais passam a aproximar funções de valor  
+
+Surge o **Deep Q-Network (DQN)**:
+
+- Combina RL + Deep Learning  
+- Usa replay de experiências  
+- Resolve problemas complexos e de alta dimensionalidade  
+
+---
+
+## Desafio Prático da Disciplina
+
+### Contexto
+Cenário de logística com robôs autônomos em grid 2D.
+
+### Objetivo
+Maximizar entregas no menor tempo possível, considerando:
+
+- Obstáculos
+- Living penalty
+- Decisões sequenciais
+
+### Avaliação
+- Modelagem correta do MDP
+- Implementação do agente
+- Qualidade do aprendizado
+- Clareza do código e documentação
+
+---
+
+## Conexão com o Repositório de Código
+
+Todo o conteúdo prático da disciplina está implementado em notebooks no GitHub, permitindo:
+
+- Experimentação
+- Alteração de hiperparâmetros
+- Análise de curvas de recompensa
+- Consolidação do aprendizado teórico
+
+---
