@@ -38,6 +38,10 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_3_pygame_det_frozenlake_colab.ipynb)
 
+### Equação de Bellman: Exemplo 4 - Value Iteration
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_5_bellman_resolvido.ipynb)
+
 ---
 
 ## Abordagem Metodológica
