@@ -52,7 +52,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ### Cadeia de Markov
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_7_cadeia_markov_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_7_cadeia_markov.ipynb)
 
 ---
 
