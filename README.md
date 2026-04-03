@@ -40,6 +40,10 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_4_cadeia_markov.ipynb)
 
+### 6 - MDP 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_5_pygame_mdp_colab.ipynb)
+
 ### 5 - Equação de Bellman: Exemplo 4 - Value Iteration
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_5_bellman_resolvido.ipynb)
@@ -48,9 +52,6 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_6_bellman_fincaneiro.ipynb)
 
-### 7 - MDP 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_6_pygame_mdp_colab.ipynb)
 
 
 
