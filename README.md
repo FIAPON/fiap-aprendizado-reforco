@@ -34,7 +34,11 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ### 4 - Frozen Lake: Exemplo 3 - Determinístico
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_3_pygame_det_frozenlake_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_agente_labirinto.ipynb)
+
+### Exercício
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_4_pygame_estoc_frozenlake_colab.ipynb)
 
 ### 5 - Cadeia de Markov
 
@@ -44,13 +48,17 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_5_pygame_mdp_Bellman_colab.ipynb)
 
+### Exercicio
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_markov_mdp.ipynb)
+
 
 ### 7 - Q-Table
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
 
-11 - DQN Breakout
+### 11 - DQN Breakout
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/dqn_scratch.ipynb)
 
