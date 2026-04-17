@@ -53,7 +53,12 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_markov_mdp.ipynb)
 
 
-### 7 - Q-Table
+### 7 - SARSA
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_7_sarsa_resolvido.ipynb)
+
+
+### 8 - Q-Table
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
