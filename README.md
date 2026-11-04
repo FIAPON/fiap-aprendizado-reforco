@@ -19,7 +19,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ## Notebooks das aulas
 
-### 1 - Tic-Tac-Toe: Aprendizado por Reforço Simples
+### 1 - Jogo da Velha (Tic-Tac-Toe): Aprendizado por Reforço Simples
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic_tae_toe.ipynb)
 
@@ -28,7 +28,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_1_pygame.ipynb)
 
-### 3 - Frozen Lake: Exemplo 2 - OpenAI Gym
+### 3 - Frozen Lake: Exemplo 2 - Agente aleatório
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_2_pygame_frozenlake.ipynb)
 
@@ -55,6 +55,12 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 ### 7 - Q-Table
 
+**Para completar** (o aluno escreve a atualização do Q-Learning):
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table.ipynb)
+
+**Resolvido:**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
 ### 8 - SARSA
@@ -66,8 +72,12 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicio_qlearning_sarsa.ipynb)
 
+**Gabarito:**
 
-### 9 - DQN Breakout
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicio_qlearning_sarsa_resolvido.ipynb)
+
+
+### 9 - DQN: do zero e Atari Breakout
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/dqn_scratch.ipynb)
 
