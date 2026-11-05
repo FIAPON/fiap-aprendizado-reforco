@@ -24,27 +24,23 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic_tae_toe.ipynb)
 
 
-### 2 - O robô entregador: o ciclo agente–ambiente (política e valor)
+### 2 - O robô entregador: o ciclo agente–ambiente e a política
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_1_pygame.ipynb)
 
-### 3 - Lago congelado: aleatório × treinado (mão na massa do slide 41)
+### 3 - Lago congelado: aleatório × treinado (mão na massa do slide 41) + desafio "olhos de agente"
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_2_pygame_frozenlake.ipynb)
-
-### 4 - Você é o agente: mapa, neblina e "olhos de agente"
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_3_pygame_det_frozenlake_colab.ipynb)
 
 ### Exercício
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_agente_labirinto.ipynb)
 
-### 5 - Cadeia de Markov
+### 4 - Cadeia de Markov
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_4_cadeia_markov.ipynb)
 
-### 6 - MDP 
+### 5 - MDP 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_5_pygame_mdp_Bellman_colab.ipynb)
 
@@ -52,16 +48,16 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_markov_mdp.ipynb)
 
-### 6.1 - Monte Carlo × Diferença Temporal: a volta para casa e o passeio na avenida
+### 5.1 - Monte Carlo × Diferença Temporal: a volta para casa e o passeio na avenida
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_monte_carlo_td.ipynb)
 
-### 6.2 - Exploração × explotação (ε-greedy): qual é o melhor restaurante?
+### 5.2 - Exploração × explotação (ε-greedy): qual é o melhor restaurante?
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_epsilon_greedy_restaurantes.ipynb)
 
 
-### 7 - Q-Table
+### 6 - Q-Table
 
 **Para completar** (o aluno escreve a atualização do Q-Learning):
 
@@ -71,7 +67,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
-### 8 - SARSA
+### 7 - SARSA
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_7_sarsa_resolvido.ipynb)
 
@@ -85,7 +81,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicio_qlearning_sarsa_resolvido.ipynb)
 
 
-### 9 - DQN: do zero e Atari Breakout
+### 8 - DQN: do zero e Atari Breakout
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/dqn_scratch.ipynb)
 
