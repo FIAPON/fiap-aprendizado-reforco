@@ -52,6 +52,14 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_markov_mdp.ipynb)
 
+### 6.1 - Monte Carlo × Diferença Temporal: a volta para casa e o passeio na avenida
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_monte_carlo_td.ipynb)
+
+### 6.2 - Exploração × explotação (ε-greedy): qual é o melhor restaurante?
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_epsilon_greedy_restaurantes.ipynb)
+
 
 ### 7 - Q-Table
 
