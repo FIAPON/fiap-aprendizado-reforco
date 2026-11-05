@@ -24,15 +24,15 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/tic-tae-toe/tic_tae_toe.ipynb)
 
 
-### 2 - Grid World: Exemplo 1 - Pygame
+### 2 - O robô entregador: o ciclo agente–ambiente (política e valor)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_1_pygame.ipynb)
 
-### 3 - Frozen Lake: Exemplo 2 - Agente aleatório
+### 3 - Lago congelado: aleatório × treinado (mão na massa do slide 41)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_2_pygame_frozenlake.ipynb)
 
-### 4 - Frozen Lake: Exemplo 3 - Determinístico
+### 4 - Você é o agente: mapa, neblina e "olhos de agente"
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_3_pygame_det_frozenlake_colab.ipynb)
 
