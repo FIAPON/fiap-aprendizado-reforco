@@ -48,7 +48,7 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicios_markov_mdp.ipynb)
 
-### 5.1 - Monte Carlo × Diferença Temporal: a volta para casa e o passeio na avenida
+### 5.1 - Os quatro entregadores do bairro: Value Iteration, Policy Iteration, Monte Carlo e TD
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_monte_carlo_td.ipynb)
 
