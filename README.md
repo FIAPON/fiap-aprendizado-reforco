@@ -75,9 +75,17 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exercicio_qlearning_sarsa_resolvido.ipynb)
 
 
-### 8 - DQN: do zero e Atari Breakout
+### 8 - DQN: do zero, pela tela (chuva de maçãs) e Atari Breakout
+
+**DQN do zero** (o labirinto, com as 3 ideias do DQN):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/dqn_scratch.ipynb)
+
+**DQN pela tela: chuva de maçãs** (pixels, 4 frames e rede convolucional):
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_DQN_macas.ipynb)
+
+**Atari Breakout** (agente já treinado):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_DQN_Breakout.ipynb)
 
