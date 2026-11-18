@@ -57,15 +57,9 @@ Nesta disciplina, o foco não é apenas *“fazer o agente aprender”*, mas **e
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_epsilon_greedy_restaurantes.ipynb)
 
 
-### 6 - Q-Table
-
-**Para completar** (o aluno escreve a atualização do Q-Learning):
+### 6 - Q-Learning com Q-Table: o agente no labirinto
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table.ipynb)
-
-**Resolvido:**
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-aprendizado-reforco/blob/main/Programas/exemplo_10_q_table_resolvido.ipynb)
 
 ### 7 - SARSA
 
